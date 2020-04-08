@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Splash-Screen.iml" filepath="$PROJECT_DIR$/Splash-Screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splash Screen.iml" filepath="$PROJECT_DIR$/Splash Screen.iml" group="Splash Screen" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Splash Screen/app" />
     </modules>
   </component>
 </project>
